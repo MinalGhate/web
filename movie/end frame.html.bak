@@ -1,0 +1,12 @@
+<HTML>
+   <HEAD>
+      <TITLE>Movie Information System 2</TITLE>
+   </HEAD>
+   <frameset rows="95%,5%"> 
+    <frame name="top" src="Practical 2.html"/>
+	<frame name="bottom" src="end.png"/>
+	<noframes> 
+	   <body> amazon company</body>
+	</noframes>
+	</frameset>
+</html>	
